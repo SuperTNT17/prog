@@ -36,5 +36,5 @@ function Vechten(){
 }
 
 function Vluchten(){
-    console.log(`${playerName} rent weg van de ${monsterName}`)
+    console.log(`${playerName} rent weg van de ${monsterName}.`)
 }
